@@ -6,8 +6,7 @@
 - 🌱 Currently, I'm working on Java(Spring boot), C++, Angular, MS SQL
 - 💞️ I’m looking to collaborate on AI/Deep Learning stuff.
 - 📫 You can reach me out at mohammadowaismushtaq@gmail.com
-- :heart_eyes: Love to code in Python, C++, and in java.
-- :sunglasses: Aim is high always.
+- :heart_eyes: Love to code in Java, Python, and C++.
 - Skills: Java(Spring Boot), C++ (MFC, BCP), Angular, Deep Learning (Python, Tensorflow, OpenCV) etc.
 <div align="justify">
 
