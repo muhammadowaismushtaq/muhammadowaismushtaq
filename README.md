@@ -1,4 +1,7 @@
-- 👋 Hi, Owais here!
+<div class="d-flex flex-column justify-content-center align-items-center w-100" *ngIf="bio$ | async as bio">
+    <div class="d-flex flex-column min-vh-95 justify-content-center align-items-center w-100">
+            <h1>Hi 👋, <span class="font-weight-bold">Owais here!</span></h1>
+     
 - :smirk: I’m Software Engineer
 - 🌱 I’m Currently working on Java(Spring boot), C++, Anugular, MS SQL
 - 💞️ I’m looking to collaborate on AI/Deep Learning stuff.
@@ -11,12 +14,12 @@
 [![Linkedin](https://img.shields.io/badge/Owais-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadowaismushtaq/)
 [![github](https://img.shields.io/badge/Owais-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammadowaismushtaq/)
 [![Instagram](https://img.shields.io/badge/Owais-%2523E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/m_owaismushtaq/)
-
+</div>
 </div>  
 <p align="justify"> 
-Hello buddies ✋ ,Owais again 😋, A dynamic professional with several years of experience in the areas of Software Development and Machine Learning. Hands-on knowledge of Machine Learning and Deep Learning, Tensorflow, Scikit-learn, OpenCV, Keras, Transformers, SQL Server. Good command over programming languages such as Python, C++, Java, and Javascript(Angular) along with Artificial Intelligence concepts and MLOps. Possess good communication skills and has the ability to work independently or as a part of a team.
+Hello buddies ✋, Owais once again 😋, A dynamic professional with several years of experience in the areas of Software Development and Machine Learning. Hands-on knowledge of Machine Learning and Deep Learning, Tensorflow, Scikit-learn, OpenCV, Keras, Transformers, SQL Server. Good command over programming languages such as Python, C++, Java, and Javascript(Angular) along with Artificial Intelligence concepts and MLOps. Possess good communication skills and has the ability to work independently or as a part of a team.
 &nbsp;
-
+  </div>
 </p>
 
 ## My favorite tools and technologies ⚙️ 
