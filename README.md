@@ -3,7 +3,7 @@
             <h1>Hi 👋, <span class="font-weight-bold">Owais here!</span></h1>
      
 - :smirk: I’m Software Engineer
-- 🌱 I’m Currently working on Java(Spring boot), C++, Anugular, MS SQL
+- 🌱 Currently, I'm working on Java(Spring boot), C++, Angular, MS SQL
 - 💞️ I’m looking to collaborate on AI/Deep Learning stuff.
 - 📫 You can reach me out at mohammadowaismushtaq@gmail.com
 - :heart_eyes: Love to code in Python, C++, and in java.
