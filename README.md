@@ -44,10 +44,6 @@ Hello buddies ✋ ,Owais again 😋, A dynamic professional with several years o
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
       <br>Rest APIs
     </td>                                                                                          
-     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="Cpp" width="65" height="65" />
-      <br>C++
-    </td>
     <td align="center" width="96">
         <a href="#macropower-tech">
           <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
@@ -57,7 +53,11 @@ Hello buddies ✋ ,Owais again 😋, A dynamic professional with several years o
       <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="Tensorflow" />
         <br>Tensorflow
-      </td>       
+      </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="Cpp" width="65" height="65" />
+      <br>C++
+    </td>
  </tr>                                                                                                        
  <tr> 
     <td align="center"  width="96">
