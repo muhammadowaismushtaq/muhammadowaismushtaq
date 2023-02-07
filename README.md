@@ -1,4 +1,4 @@
-- 👋 Hi, Owais here
+- 👋 Hi, Owais here!
 - :smirk: I’m Software Engineer
 - 🌱 I’m Currently working on Java(Spring boot), C++, Anugular, MS SQL
 - 💞️ I’m looking to collaborate on AI/Deep Learning stuff.
