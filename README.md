@@ -1,11 +1,11 @@
-- 👋 Hi, I’m Muhammad Owais Mushtaq
-- :smirk: I’m Software Engineer(Deep Learning, Angular, Spring Boot, SQL).
-- 🌱 I’m Currently working on Transformers and Java Spring boot.
-- 💞️ I’m looking to collaborate on Graph Neural Networks.
-- 📫 You can reach me out at daniyalhassan11081999@gmail.com
-- :heart_eyes: Love to code in Python, c++, java and in js.
-- :sunglasses: Can do attitude.
-- Skills: Spring Boot, C++, Angular, Nodejs, Tensorflow, Transformers, Keras
+- 👋 Hi, Owais here
+- :smirk: I’m Software Engineer
+- 🌱 I’m Currently working on Java(Spring boot), C++, Anugular, MS SQL
+- 💞️ I’m looking to collaborate on AI/Deep Learning stuff.
+- 📫 You can reach me out at mohammadowaismushtaq@gmail.com
+- :heart_eyes: Love to code in Python, C++, and in java.
+- :sunglasses: Aim is high always.
+- Skills: Java(Spring Boot), C++ (MFC, BCP), Angular, Deep Learning (Python, Tensorflow, OpenCV) etc.
 <div align="justify">
 
 [![Instagram](https://img.shields.io/badge/Owais-%2523E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/m_owaismushtaq/)
@@ -13,10 +13,9 @@
 [![github](https://img.shields.io/badge/Owais-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammadowaismushtaq/)
 
 
- 
 </div>  
 <p align="justify"> 
-Hello friends ✋ , I am Daniyal, A dynamic professional with several years of experience in the areas of Software Development and Machine Learning. Hands-on knowledge of Machine Learning and Deep Learning, Tensorflow, Scikit-learn, OpenCV, Keras, Transformers, SQL Server, MongoDB. Good command over programming languages such as Python C++, Javascript(Angular), and Java along with artificial Intelligence concepts and MLOps. Possess good communication skills and has the ability to work independently or as a part of a team.
+Hello buddies ✋ ,Owais again 😋, A dynamic professional with several years of experience in the areas of Software Development and Machine Learning. Hands-on knowledge of Machine Learning and Deep Learning, Tensorflow, Scikit-learn, OpenCV, Keras, Transformers, SQL Server. Good command over programming languages such as Python, C++, Java, and Javascript(Angular) along with Artificial Intelligence concepts and MLOps. Possess good communication skills and has the ability to work independently or as a part of a team.
 &nbsp;
 
 </p>
@@ -108,10 +107,6 @@ Hello friends ✋ , I am Daniyal, A dynamic professional with several years of e
     </td>
   </tr>
  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
-      <br>Nginx
-    </td>
         <!-- <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" width="48" height="48" alt="Flutter" />
       <br>Flutter
