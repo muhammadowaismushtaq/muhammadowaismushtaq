@@ -15,7 +15,7 @@
 </div>
 </div>  
 <p align="justify"> 
-Hello buddies ✋, Owais once again 😋, A dynamic professional with several years of experience in the areas of Software Development and Machine Learning. Hands-on knowledge of Machine Learning and Deep Learning, Tensorflow, Scikit-learn, OpenCV, Keras, Transformers, SQL Server. Good command over programming languages such as Java, Python, C++, and C# along with Artificial Intelligence concepts and MLOps. Possess good communication skill and has the ability to work independently or as a part of a team.
+Hello buddies ✋, Owais once again 😋, A dynamic professional with several years of experience in the areas of Software Development and Machine Learning. Good command over programming languages such as Java, Python, C++, and C# along with Artificial Intelligence concepts and MLOps. Possess good communication skill and has the ability to work independently or as a part of a team.
 &nbsp;
   </div>
 </p>
