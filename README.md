@@ -10,8 +10,11 @@
 - Skills: Java(Spring Boot), C++ (MFC, BCP), Angular, Deep Learning (Python, Tensorflow, OpenCV) etc.
 <div align="justify">
 
-[![Linkedin](https://img.shields.io/badge/Follow-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadowaismushtaq/)
+[![Linkedin](https://img.shields.io/badge/Follow-12100E.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadowaismushtaq/)
 [![github](https://img.shields.io/badge/Follow-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammadowaismushtaq/)
+[![github](https://img.shields.io/badge/Follow-12100E.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m_owaismushtaq/)
+    
+    
 </div>
 </div>  
 <p align="justify"> 
