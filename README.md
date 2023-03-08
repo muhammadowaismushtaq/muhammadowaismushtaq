@@ -11,6 +11,7 @@
 <div align="justify">
 
 [![Linkedin](https://img.shields.io/badge/Follow-12100E.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadowaismushtaq/)
+[![Linkedin](https://img.shields.io/badge/Follow-12100E.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/muhammadowaismushtaq/)
 [![github](https://img.shields.io/badge/Follow-12100E.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/m_owaismushtaq/)
 [![github](https://img.shields.io/badge/Follow-12100E.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m_owaismushtaq/)
 [![github](https://img.shields.io/badge/Follow-12100E.svg?style=for-the-badge&logo=snapchat&logoColor=white)](https://www.snapchat.com/add/m_owaismushtaq/)
