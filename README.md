@@ -3,7 +3,7 @@
             <h1>Hi 👋, <b>Owais here!</b></h1>
      
 - :smirk: I’m Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🌱 Currently working on a Fintech based product [MARS](https://softpak.com/mars/) 
+- 🌱 Currently working on a fintech-based product [MARS](https://softpak.com/mars/) 
 - :heart_eyes: Love to code in Java, Python, and C++
 - 💞️ I’m looking to collaborate on any Develpment(Java/C++/Python)/Research(ML/Deep Learning) stuff
 - 📫 You can reach me out at mohammadowaismushtaq@gmail.com
