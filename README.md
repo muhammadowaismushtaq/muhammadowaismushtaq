@@ -100,7 +100,7 @@ Hello buddies ✋, Owais once again 😋, A dynamic professional with several ye
   </tr>
 </table>
 
-## Github's Thought 💭
+## Github's thought 💭
 ![Owais's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadowaismushtaq&show_icons=true&theme=radical)  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhammadowaismushtaq&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadowaismushtaq&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
