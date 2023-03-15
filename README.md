@@ -2,12 +2,11 @@
     <div class="d-flex flex-column min-vh-95 justify-content-center align-items-center w-100">
             <h1>Hi 👋, <b>Owais here!</b></h1>
      
-- :smirk: I’m Software Engineer
-- 🌱 Currently, I'm working on Java(Spring boot), C++, Angular, MS SQL
-- 💞️ I’m looking to collaborate on AI/Deep Learning stuff.
+- :smirk: I’m Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🌱 Currently working on a Fintech based product [MARS](https://softpak.com/mars/) 
+- :heart_eyes: Love to code in Java, Python, and C++
+- 💞️ I’m looking to collaborate on any Develpment(Java/C++/Python)/Research(ML/Deep Learning) stuff
 - 📫 You can reach me out at mohammadowaismushtaq@gmail.com
-- :heart_eyes: Love to code in Java, Python, and C++.
-- Skills: Java(Spring Boot), C++ (MFC, BCP), Angular, Deep Learning (Python, Tensorflow, OpenCV) etc.
 <div align="justify">
 
 [![Linkedin](https://img.shields.io/badge/Follow-12100E.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadowaismushtaq/)
@@ -100,4 +99,9 @@ Hello buddies ✋, Owais once again 😋, A dynamic professional with several ye
     </td>                                                                                                  
   </tr>
 </table>
+
+## Github's Thought 💭:
+![Owais's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadowaismushtaq&show_icons=true&theme=radical)  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhammadowaismushtaq&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadowaismushtaq&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
 
