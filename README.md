@@ -9,11 +9,11 @@
 - 📫 You can reach me out at mohammadowaismushtaq@gmail.com
 <div align="justify">
 
-[![Linkedin](https://img.shields.io/badge/Follow-12100E.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadowaismushtaq/)
-[![Linkedin](https://img.shields.io/badge/Follow-12100E.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/muhammadowaismushtaq/)
-[![github](https://img.shields.io/badge/Follow-12100E.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/m_owaismushtaq/)
-[![github](https://img.shields.io/badge/Follow-12100E.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m_owaismushtaq/)
-[![github](https://img.shields.io/badge/Follow-12100E.svg?style=for-the-badge&logo=snapchat&logoColor=white)](https://www.snapchat.com/add/m_owaismushtaq/)
+[![Linkedin](https://img.shields.io/badge/-Follow-%230072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadowaismushtaq/)
+[![Linkedin](https://img.shields.io/badge/-Follow-%233b5998?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/muhammadowaismushtaq/)
+[![github](https://img.shields.io/badge/-Follow-%2300acee?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/m_owaismushtaq/)
+[![github](https://img.shields.io/badge/-Follow-%23ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m_owaismushtaq/)
+[![github](https://img.shields.io/badge/-Follow-%23FDFF70?style=for-the-badge&logo=snapchat&logoColor=white)](https://www.snapchat.com/add/m_owaismushtaq/)
     
     
 </div>
