@@ -1,12 +1,14 @@
+![GITHUB COVER BEST](https://user-images.githubusercontent.com/104893311/236267366-3c79f5d9-2587-49aa-96e7-e45e9a546f22.png)
 <div class="d-flex flex-column justify-content-center align-items-center w-100" *ngIf="bio$ | async as bio">
     <div class="d-flex flex-column min-vh-95 justify-content-center align-items-center w-100">
             <h1>Hi 👋, <b>Owais here!</b></h1>
-     
+<img align="right" alt="GIF" height="220px" src="https://user-images.githubusercontent.com/104893311/219148682-fd27b1a7-85a4-4ac7-8a49-6025a58fb62c.gif" />
+        
 - :smirk: I’m Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 Currently working on a fintech-based product [MARS](https://softpak.com/mars/) 
 - :heart_eyes: Love to code in Java, Python, and C++
-- 💞️ I’m looking to collaborate on any Develpment(Java/C++/Python)/Research(ML/Deep Learning) stuff
 - 📫 You can reach me out at mohammadowaismushtaq@gmail.com
+
 <div align="justify">
 
 [![Linkedin](https://img.shields.io/badge/-Follow-%230072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadowaismushtaq/)
@@ -18,6 +20,7 @@
     
 </div>
 </div>  
+<br>
 
 ## My favorite tools and technologies ⚙️ 
 
@@ -111,6 +114,11 @@
 <!---[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhammadowaismushtaq&theme=dark&background=000000)](https://git.io/streak-stats)--->
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=muhammadowaismushtaq&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadowaismushtaq" /> </p>
+<p align="right"> 
+    <img src="https://komarev.com/ghpvc/?username=muhammadowaismushtaq&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadowaismushtaq" />
+    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/muhammadowaismushtaq?label=Stars">
+    
+
+</p>
   
 
