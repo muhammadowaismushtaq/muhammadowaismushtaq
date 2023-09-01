@@ -1,7 +1,11 @@
 ![GITHUB COVER BEST](https://user-images.githubusercontent.com/104893311/236267366-3c79f5d9-2587-49aa-96e7-e45e9a546f22.png)
+<p align="right"> 
+    <img src="https://komarev.com/ghpvc/?username=muhammadowaismushtaq&label=Profile%20views&color=0e75b6&style=flat">
+    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/muhammadowaismushtaq?label=Stars">
+</p>
 <div class="d-flex flex-column justify-content-center align-items-center w-100" *ngIf="bio$ | async as bio">
     <div class="d-flex flex-column min-vh-95 justify-content-center align-items-center w-100">
-            <h1>Hi 👋, <b>Owais here!</b></h1>
+        <h1>Hi 👋, <b>Owais here!</b></h1>
 <img align="right" alt="GIF" height="220px" src="https://user-images.githubusercontent.com/104893311/219148682-fd27b1a7-85a4-4ac7-8a49-6025a58fb62c.gif" />
         
 - :smirk: I’m Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -110,16 +114,17 @@
 </table>
 
 ## Github Stats 📈
-![Owais's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadowaismushtaq&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Owais's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadowaismushtaq&show_icons=true&include_all_commits=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadowaismushtaq&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<!---[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhammadowaismushtaq&theme=dark&background=000000)](https://git.io/streak-stats)--->
+<!---[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhammadowaismushtaq&theme=dark&background=000000)](https://git.io/streak-stats)
+     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammadowaismushtaq&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> --->
 
 
-<p align="right"> 
-    <img src="https://komarev.com/ghpvc/?username=muhammadowaismushtaq&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadowaismushtaq" />
-    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/muhammadowaismushtaq?label=Stars">
-    
 
-</p>
+## ⚡Recent GitHub Activity
+ 
+  [![Owais's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadowaismushtaq&bg_color=18122B&color=6096B4&line=3A98B9&point=FCFFE7&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   
 
