@@ -20,11 +20,9 @@
 [![github](https://img.shields.io/badge/-Follow-%23ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m_owaismushtaq/)
 [![github](https://img.shields.io/badge/-Streak-%23FDFF70?style=for-the-badge&logo=snapchat&logoColor=black)](https://www.snapchat.com/add/m_owaismushtaq/)
 <!--- [![github](https://img.shields.io/badge/-Follow-%2300acee?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/m_owaismushtaq/)-->
-    
-    
+      
 </div>
-</div>  
-<br>
+</div> 
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 <!--- ## My favorite tools and technologies ⚙️ -->
