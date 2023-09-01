@@ -11,7 +11,7 @@
 - :smirk: I’m Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 Currently working on a fintech-based product [MARS](https://softpak.com/mars/) 
 - :heart_eyes: Love to code in Java, Python, and C++
-- 📫 You can reach me out at ⤵ mohammadowaismushtaq@gmail.com
+- 📫 You can reach me out at ⤵ <a href="mailto:muhammadowaismushtaq@outlook.com">muhammadowaismushtaq@outlook.com
 
 <div align="justify">
 
