@@ -9,16 +9,14 @@
 <img align="right" alt="GIF" height="220px" src="https://user-images.githubusercontent.com/104893311/219148682-fd27b1a7-85a4-4ac7-8a49-6025a58fb62c.gif" />
         
 - :smirk: I’m Software Development Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🌱 Currently working on a fintech-based product [MARS](https://softpak.com/mars/) 
 - :heart_eyes: Love to code in Java, Python, and C++
-- 📫 You can reach me out at ⤵ <a href="mailto:m_owaismushtaq@hotmail.com">m_owaismushtaq@hotmail.com
+- 📫 You can reach me out at ⤵ <a href="mailto:muhammadowaismushtaq@outlook.com">muhammadowaismushtaq@outlook.com
 
 <div align="justify">
 
 [![Linkedin](https://img.shields.io/badge/-Connect-%230072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadowaismushtaq/)
-[![Linkedin](https://img.shields.io/badge/-Friend-%233b5998?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/muhammadowaismushtaq/)
 [![github](https://img.shields.io/badge/-Follow-%23ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m_owaismushtaq/)
-[![github](https://img.shields.io/badge/-Streak-%23FDFF70?style=for-the-badge&logo=snapchat&logoColor=black)](https://www.snapchat.com/add/m_owaismushtaq/)
+[![github](https://img.shields.io/badge/-Follow-%23FDFF70?style=for-the-badge&logo=snapchat&logoColor=black)](https://www.snapchat.com/add/m_owaismushtaq/)
 <!--- [![github](https://img.shields.io/badge/-Follow-%2300acee?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/m_owaismushtaq/)-->
       
 </div>
