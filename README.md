@@ -112,8 +112,8 @@
 ## Github Stats 📈
 ![Owais's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadowaismushtaq&show_icons=true&include_all_commits=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadowaismushtaq&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhammadowaismushtaq&theme=dark&background=000000)](https://git.io/streak-stats)
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammadowaismushtaq&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<!--- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhammadowaismushtaq&theme=dark&background=000000)](https://git.io/streak-stats)
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammadowaismushtaq&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> --->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=veasna22&theme=dracula" alt="Veasna22" /></a> </p>
 
 
