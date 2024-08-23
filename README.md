@@ -6,11 +6,11 @@
 <div class="d-flex flex-column justify-content-center align-items-center w-100" *ngIf="bio$ | async as bio">
     <div class="d-flex flex-column min-vh-95 justify-content-center align-items-center w-100">
         <h1>Hi 👋, <b>Owais here!</b></h1>
-<img align="right" alt="GIF" height="220px" src="https://user-images.githubusercontent.com/104893311/219148682-fd27b1a7-85a4-4ac7-8a49-6025a58fb62c.gif" />
+<img align="right" alt="GIF" height="210px" src="https://user-images.githubusercontent.com/104893311/219148682-fd27b1a7-85a4-4ac7-8a49-6025a58fb62c.gif" />
         
 - :smirk: I’m Software Development Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :heart_eyes: Love to code in Java, Python, and C++
-- 📫 You can reach me out at ⤵ <a href="mailto:muhammadowaismushtaq@outlook.com">muhammadowaismushtaq@outlook.com
+- 📫 You can reach me out at ⤵ </br> &emsp; <a href="mailto:muhammadowaismushtaq@outlook.com">muhammadowaismushtaq@outlook.com
 
 <div align="justify">
 
