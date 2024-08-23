@@ -16,7 +16,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-Connect-%230072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadowaismushtaq/)
 [![github](https://img.shields.io/badge/-Follow-%23ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m_owaismushtaq/)
-[![github](https://img.shields.io/badge/-Follow-%23FDFF70?style=for-the-badge&logo=snapchat&logoColor=black)](https://www.snapchat.com/add/m_owaismushtaq/)
+[![github](https://img.shields.io/badge/-Streak-%23FDFF70?style=for-the-badge&logo=snapchat&logoColor=black)](https://www.snapchat.com/add/m_owaismushtaq/)
 <!--- [![github](https://img.shields.io/badge/-Follow-%2300acee?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/m_owaismushtaq/)-->
       
 </div>
@@ -112,15 +112,14 @@
 ## Github Stats 📈
 ![Owais's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadowaismushtaq&show_icons=true&include_all_commits=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadowaismushtaq&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<!---[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhammadowaismushtaq&theme=dark&background=000000)](https://git.io/streak-stats)
-     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammadowaismushtaq&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> --->
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhammadowaismushtaq&theme=dark&background=000000)](https://git.io/streak-stats)
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammadowaismushtaq&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=veasna22&theme=dracula" alt="Veasna22" /></a> </p>
 
 
 ## ⚡Recent GitHub Activity
- 
   [![Owais's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadowaismushtaq&bg_color=18122B&color=6096B4&line=3A98B9&point=FCFFE7&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
+
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   
 
