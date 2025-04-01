@@ -10,7 +10,7 @@
         
 - :smirk: I’m Software Development Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :heart_eyes: Love to code in Java, Python, and C++
-- 📫 You can reach me out at ⤵ </br> &emsp; <a href="mailto:muhammadowaismushtaq@outlook.com">muhammadowaismushtaq@outlook.com
+- 📫 You can reach me out at ⤵
 
 <div align="justify">
 
