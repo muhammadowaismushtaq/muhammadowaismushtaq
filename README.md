@@ -8,7 +8,7 @@
         <h1>Hi 👋, <b>Owais here!</b></h1>
 <img align="right" alt="GIF" height="210px" src="https://user-images.githubusercontent.com/104893311/219148682-fd27b1a7-85a4-4ac7-8a49-6025a58fb62c.gif" />
         
-- :smirk: I’m Software Development Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- :smirk: I’m Software Development Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" title="Don't disturb me, I have a release coming up!" alt="Release incoming GIF" />
 - :heart_eyes: Love to code in Java, Python, and C++
 - 📫 You can reach me out at ⤵
 
