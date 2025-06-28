@@ -109,9 +109,8 @@
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-<img src="https://raw.githubusercontent.com/Zulfiqar-Ali10/Zulfiqar-Ali10/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Zulfiqar-Ali10/Zulfiqar-Ali10/output/snake.svg" alt="Snake animation"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="footer"/>
 
 <!---
 ## Github Stats 📈
