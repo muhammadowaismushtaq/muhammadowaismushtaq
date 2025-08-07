@@ -8,15 +8,19 @@
         <h1>Hi 👋, <b>Owais here!</b></h1>
 <img align="right" alt="GIF" height="210px" src="https://user-images.githubusercontent.com/104893311/219148682-fd27b1a7-85a4-4ac7-8a49-6025a58fb62c.gif" />
         
-- :smirk: I’m Software Development Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" title="Don't disturb me, I have a release coming up!" alt="Release incoming GIF" />
-- :heart_eyes: Love to code in Java, Python, and C++
+- :smirk: **Full Stack Developer** | Angular • Spring Boot • CI/CD Pipelines <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" title="Don't disturb me, I have a release coming up!" alt="Release incoming GIF" />
+- 🌍 **Based in Karachi, Pakistan** | 💼 SDE-II at Matrix Systems  
+- 🛠️ Passionate about scalable systems and efficient DevOps workflows
 - 📫 You can reach me out at ⤵
 
 <div align="justify">
 
 [![Linkedin](https://img.shields.io/badge/-Connect-%230072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadowaismushtaq/)
 [![github](https://img.shields.io/badge/-Follow-%23ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m_owaismushtaq/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=globe&logoColor=white)](https://muhammadowaismushtaq.github.io/)
 [![github](https://img.shields.io/badge/-Streak-%23FDFF70?style=for-the-badge&logo=snapchat&logoColor=black)](https://www.snapchat.com/add/m_owaismushtaq/)
+
+
 <!--- [![github](https://img.shields.io/badge/-Follow-%2300acee?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/m_owaismushtaq/)-->
       
 </div>
