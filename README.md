@@ -8,9 +8,9 @@
         <h1>Hi 👋, <b>Owais here!</b></h1>
 <img align="right" alt="GIF" height="210px" src="https://user-images.githubusercontent.com/104893311/219148682-fd27b1a7-85a4-4ac7-8a49-6025a58fb62c.gif" />
         
-- :smirk: **Full Stack Developer** | Angular • Spring Boot • CI/CD Pipelines <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" title="Don't disturb me, I have a release coming up!" alt="Release incoming GIF" />
+- :smirk: **Full Stack Dev** | Angular • Spring Boot • CI/CD Pipelines <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" title="Don't disturb me, I have a release coming up!" alt="Release incoming GIF" />
 - 🌍 **Based in Karachi, Pakistan** | 💼 SDE-II at Matrix Systems  
-- 🛠️ Passionate about scalable systems and efficient DevOps workflows
+- 🛠️ Passionate about scalable systems and DevOps efficiency
 - 📫 You can reach me out at ⤵
 
 <div align="justify">
