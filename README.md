@@ -1,15 +1,16 @@
-![GITHUB COVER BEST](https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/resources/muhammadowaismushtaq-banner.png)
+![GITHUB COVER BEST](https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-banner.png)
 
-<p align="right"> 
+<p align="right">
+    <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/resources/muhammadowaismushtaq-hacker.gif" width="30" title="Cloning this might summon the hacker cat spirit 🐱‍💻" alt="Hacker GIF" />
     <img src="https://komarev.com/ghpvc/?username=muhammadowaismushtaq&label=Profile%20views&color=0e75b6&style=flat">
     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/muhammadowaismushtaq?label=Stars">
 </p>
 <div class="d-flex flex-column justify-content-center align-items-center w-100" *ngIf="bio$ | async as bio">
     <div class="d-flex flex-column min-vh-95 justify-content-center align-items-center w-100">
-        <h1>Hi 👋, <b>Owais here!</b></h1>
-<img align="right" alt="GIF" height="210px" src="https://user-images.githubusercontent.com/104893311/219148682-fd27b1a7-85a4-4ac7-8a49-6025a58fb62c.gif" />
+        <h1>Hi <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-hello-1.gif" width="30" title="اَلسَّلَامُ عَلَيْكُم وَرَحْمَةُ اَللهِ وَبَرَكاتُهُ" alt="Hi GIF" />, <b>Owais here!</b></h1>
+<img align="right" alt="GIF" height="210px" src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-mario.gif" />
         
-- :smirk: **Full Stack Dev** | Angular • Spring Boot • CI/CD Pipelines <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/resources/muhammadowaismushtaq-coding-cat.gif" width="30" title="Don't disturb me, I have a release coming up!" alt="Release incoming GIF" />
+- **Full Stack Dev** | Angular • Spring Boot • CI/CD Pipelines <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-coding-cat.gif" width="30" title="Don't disturb me, I have a release coming up!" alt="Release incoming GIF" />
 - 🌍 **Based in Karachi, Pakistan** | 💼 SDE-II at Matrix Systems  
 - 🛠️ Passionate about scalable systems and DevOps efficiency
 - 📫 You can reach me out at ⤵
@@ -27,7 +28,7 @@
 </div>
 </div> 
 
-# 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+# 💻Tech Stack <img src = "https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-skills.gif" width = 32px> 
 <!--- ## My favorite tools and technologies ⚙️ -->
 
 > Tools and technologies that I have worked with and am interested in
@@ -46,7 +47,7 @@
       <br>Rest APIs
     </td>
        <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/resources/muhammadowaismushtaq-angular-logo.gif" width="48" height="48" alt="Angular" />
+        <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-angular-logo.gif" width="48" height="48" alt="Angular" />
       <br>Angular
     </td>  
        <td align="center" width="96"> 
@@ -79,11 +80,11 @@
       <br>Dot Net
     </td>   --->   
     <td align="center"  width="96">
-        <img  src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/resources/muhammadowaismushtaq-html-logo.gif" width="48" height="48" alt="HTML" />
+        <img  src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-html-logo.gif" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>                                                                                  
     <td align="center" width="96">
-        <img  src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/resources/muhammadowaismushtaq-css-logo.gif" width="48" height="48" alt="css" />
+        <img  src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-css-logo.gif" width="48" height="48" alt="css" />
       <br>CSS
     </td>                                                                               
      <td align="center" width="96">
@@ -113,8 +114,7 @@
     </td>    
   </tr>
 </table>
-
-<img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/resources/muhammadowaismushtaq-footer.gif" alt="footer"/>
+<img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-github-contribution-grid-snake.svg" alt="Snake animation"/>
 <div align="">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
@@ -139,16 +139,17 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
-     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
 </div>
+<img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-footer-3.gif" alt="footer"/>
 
 <!---
 ## Github Stats 📈
-<img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/resources/muhammadowaismushtaq-workstation-github-contribution-grid-snake.svg" alt="Snake animation"/>
+
 ![Owais's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadowaismushtaq&show_icons=true&include_all_commits=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadowaismushtaq&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhammadowaismushtaq&theme=dark&background=000000)](https://git.io/streak-stats)
