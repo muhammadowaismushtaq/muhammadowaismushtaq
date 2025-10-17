@@ -123,6 +123,15 @@
 
 #
 
+<details> 
+  <summary><h2>📊 Stats and Activity</h2></summary>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadowaismushtaq&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) <br/>
+![Owais's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadowaismushtaq&show_icons=true&include_all_commits=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) <br/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhammadowaismushtaq&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Owais's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadowaismushtaq&bg_color=18122B&color=6096B4&line=3A98B9&point=FCFFE7&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</details>
+
 <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-pacman-contribution-graph.svg" alt="pacman-contribution-graph"/>
 <div align="center"> <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-thanks.svg" alt="thanks"/> </div>
 <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-footer-3.gif" alt="footer"/>
@@ -161,19 +170,6 @@
 	
 ### Show some ❤️ by starring some of the repositories!
 </div>
-
-<!---
-## Github Stats 📈
-<img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-github-contribution-grid-snake.svg" alt="Snake animation"/>
-![Owais's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadowaismushtaq&show_icons=true&include_all_commits=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadowaismushtaq&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhammadowaismushtaq&theme=dark&background=000000)](https://git.io/streak-stats)
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammadowaismushtaq&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=veasna22&theme=dracula" alt="Veasna22" /></a> </p>
-
-## ⚡Recent GitHub Activity
-  [![Owais's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadowaismushtaq&bg_color=18122B&color=6096B4&line=3A98B9&point=FCFFE7&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
---->
  
   
 
