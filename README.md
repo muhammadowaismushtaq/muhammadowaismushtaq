@@ -1,5 +1,5 @@
+<a name="top"></a>
 ![GITHUB COVER BEST](https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-banner.png)
-
 <p align="right">
     <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/resources/muhammadowaismushtaq-hacker.gif" width="30" title="Cloning this might summon the hacker cat spirit 🐱‍💻" alt="Hacker GIF" />
     <img src="https://komarev.com/ghpvc/?username=muhammadowaismushtaq&label=Profile%20views&color=0e75b6&style=flat">
@@ -115,7 +115,7 @@
   </tr>
 </table>
 <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-github-contribution-grid-snake.svg" alt="Snake animation"/>
-<div align="">
+<div>
 	<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
 	<img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
 	<img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/>
@@ -143,7 +143,7 @@
 	<img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25"/>
 	<img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/>
 	<img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
-	<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
+	<a href="#top" title="Back to Top" style="text-decoration: none; cursor: pointer;">🔝</a>
 </div>
 <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-footer-3.gif" alt="footer"/>
 <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-footer-1.gif" alt="footer"/>
