@@ -3,7 +3,7 @@
 <p align="right">
     <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-hacker.gif" width="30" title="Cloning this might summon the hacker cat spirit 🐱‍💻" alt="Hacker GIF" />
     <img src="https://komarev.com/ghpvc/?username=muhammadowaismushtaq&label=Profile%20views&color=0e75b6&style=flat">
-    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/muhammadowaismushtaq?label=Stars">
+    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/muhammadowaismushtaq?">
 </p>
 <div class="d-flex flex-column justify-content-center align-items-center w-100" *ngIf="bio$ | async as bio">
     <div class="d-flex flex-column min-vh-95 justify-content-center align-items-center w-100">
