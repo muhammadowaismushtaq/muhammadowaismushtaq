@@ -8,12 +8,12 @@
 <div class="d-flex flex-column justify-content-center align-items-center w-100" *ngIf="bio$ | async as bio">
     <div class="d-flex flex-column min-vh-95 justify-content-center align-items-center w-100">
         <h1>Hi <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-hello-1.gif" width="30" title="اَلسَّلَامُ عَلَيْكُم وَرَحْمَةُ اَللهِ وَبَرَكاتُهُ" alt="Hi GIF" />, <b>Owais here!</b></h1>
-<img align="right" alt="GIF" height="210px" src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-mario.gif" />
+<img align="right" alt="GIF" height="210px" src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-workspace.gif" />
         
-- 👨‍💻 **Full Stack Dev** | Angular • Spring Boot • CI/CD Pipelines <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-coding-cat.gif" width="30" title="Don't disturb me, I have a release coming up!" alt="Release incoming GIF" />
-- 🌍 **Based in Karachi, Pakistan** | 💼 SDE-II at Matrix Systems  
-- 🛠️ Passionate about scalable systems and DevOps efficiency
-- 📫 You can reach me out at ⤵
+- 👨‍💻 **Builder of Software & Teams** | Building products that scale and teams that grow <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-coding-cat.gif" width="30" title="Don't disturb me, I have a release coming up!" alt="Release incoming GIF" />
+- 🧭 Turning complex ideas into production-ready systems with clean architecture
+- 💼 SDE-II @ Matrix Systems | Leading Agile teams & cloud-native delivery  
+- 🌍 Karachi, Pakistan | ✉️ Let’s connect ⤵  
 
 <div align="justify">
 
@@ -114,7 +114,8 @@
     </td>    
   </tr>
 </table>
-<img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-pacman-contribution-graph.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-pacman-contribution-graph.svg" alt="pacman-contribution-graph"/>
+<img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-footer-3.gif" alt="footer"/>
 <div>
 	<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
 	<img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
@@ -145,7 +146,6 @@
 	<img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
 	<a href="#top" title="Back to Top" style="text-decoration: none; cursor: pointer;">🔝</a>
 </div>
-<img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-footer-3.gif" alt="footer"/>
 <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-footer-1.gif" alt="footer"/>
 
 <!---
