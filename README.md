@@ -157,6 +157,10 @@
 	<a href="#top" title="Back to Top" style="text-decoration: none; cursor: pointer;">🔝</a>
 </div>
 <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-footer-1.gif" alt="footer"/>
+<div align="center">
+	
+### Show some ❤️ by starring some of the repositories!
+</div>
 
 <!---
 ## Github Stats 📈
