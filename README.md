@@ -114,7 +114,7 @@
     </td>    
   </tr>
 </table>
-<img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-github-contribution-grid-snake.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-pacman-contribution-graph.svg" alt="Snake animation"/>
 <div>
 	<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
 	<img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
@@ -150,7 +150,7 @@
 
 <!---
 ## Github Stats 📈
-
+<img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-github-contribution-grid-snake.svg" alt="Snake animation"/>
 ![Owais's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadowaismushtaq&show_icons=true&include_all_commits=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadowaismushtaq&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhammadowaismushtaq&theme=dark&background=000000)](https://git.io/streak-stats)
