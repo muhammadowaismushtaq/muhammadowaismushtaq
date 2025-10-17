@@ -10,7 +10,7 @@
         <h1>Hi <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-hello-1.gif" width="30" title="اَلسَّلَامُ عَلَيْكُم وَرَحْمَةُ اَللهِ وَبَرَكاتُهُ" alt="Hi GIF" />, <b>Owais here!</b></h1>
 <img align="right" alt="GIF" height="210px" src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-mario.gif" />
         
-- **Full Stack Dev** | Angular • Spring Boot • CI/CD Pipelines <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-coding-cat.gif" width="30" title="Don't disturb me, I have a release coming up!" alt="Release incoming GIF" />
+- 👨‍💻 **Full Stack Dev** | Angular • Spring Boot • CI/CD Pipelines <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-coding-cat.gif" width="30" title="Don't disturb me, I have a release coming up!" alt="Release incoming GIF" />
 - 🌍 **Based in Karachi, Pakistan** | 💼 SDE-II at Matrix Systems  
 - 🛠️ Passionate about scalable systems and DevOps efficiency
 - 📫 You can reach me out at ⤵
