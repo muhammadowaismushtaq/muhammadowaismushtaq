@@ -13,7 +13,7 @@
 - 👨‍💻 **Builder of Software & Teams** | Crafting products that scale & teams that grow
 - 🧭 Turning complex ideas into production-ready systems with clean architecture
 - 💼 SSDE @ Matrix Systems | Leading Agile teams & cloud-native delivery <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-coding-cat.gif" width="30" title="Don't disturb me, I have a release coming up!" alt="Release incoming GIF" />
-- 🌍 Karachi, Pakistan | ✉️ Let’s connect ⤵  
+-  <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-globe.gif" width="18" title="Tech beyond borders" alt="Globe" /> Karachi, Pakistan | ✉️ Let’s connect ⤵  
 
 <div align="justify">
 
@@ -115,6 +115,7 @@
   </tr>
 </table>
 <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-pacman-contribution-graph.svg" alt="pacman-contribution-graph"/>
+<img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-thanks.svg" alt="thanks"/>
 <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-footer-3.gif" alt="footer"/>
 <div>
 	<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
