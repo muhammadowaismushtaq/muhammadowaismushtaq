@@ -1,7 +1,7 @@
 <a name="top"></a>
 ![GITHUB COVER BEST](https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-banner.png)
 <p align="right">
-    <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/resources/muhammadowaismushtaq-hacker.gif" width="30" title="Cloning this might summon the hacker cat spirit 🐱‍💻" alt="Hacker GIF" />
+    <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-hacker.gif" width="30" title="Cloning this might summon the hacker cat spirit 🐱‍💻" alt="Hacker GIF" />
     <img src="https://komarev.com/ghpvc/?username=muhammadowaismushtaq&label=Profile%20views&color=0e75b6&style=flat">
     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/muhammadowaismushtaq?label=Stars">
 </p>
