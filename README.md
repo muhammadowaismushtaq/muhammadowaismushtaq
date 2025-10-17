@@ -10,7 +10,7 @@
         <h1>Hi <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-hello-1.gif" width="30" title="اَلسَّلَامُ عَلَيْكُم وَرَحْمَةُ اَللهِ وَبَرَكاتُهُ" alt="Hi GIF" />, <b>Owais here!</b></h1>
 <img align="right" alt="GIF" height="210px" src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-workspace.gif" />
         
-- 👨‍💻 **Builder of Software & Teams** | Building products that scale and teams that grow <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-coding-cat.gif" width="30" title="Don't disturb me, I have a release coming up!" alt="Release incoming GIF" />
+- 👨‍💻 **Builder of Software & Teams** | Crafting products that scale & teams that grow <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-coding-cat.gif" width="30" title="Don't disturb me, I have a release coming up!" alt="Release incoming GIF" />
 - 🧭 Turning complex ideas into production-ready systems with clean architecture
 - 💼 SDE-II @ Matrix Systems | Leading Agile teams & cloud-native delivery  
 - 🌍 Karachi, Pakistan | ✉️ Let’s connect ⤵  
