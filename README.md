@@ -15,7 +15,7 @@
 **Full Stack Development | Cloud-Native Systems | Java & Angular**
 
 - 👨‍💻 **End-to-End Delivery:** Expert in building seamless user experiences with Angular and robust backends with Spring Boot.
-- 🏗️ **Infrastructure & Scaling:** Proficient in containerization (Docker, K8s) and deploying across multi-cloud environments (AWS, Azure).
+- 🏗️ **Infrastructure & Scaling:** Proficient in containerization and deploying across multi-cloud environments (AWS, Azure).
 - 🌍 **Location:** Open to Full Stack & Backend roles.
 
 ---
