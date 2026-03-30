@@ -40,70 +40,36 @@ I enjoy solving complex architectural puzzles and performance bottlenecks:
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" alt="Java"/>
       <br>Java
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="springboot" />
+        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="springboot"/>
       <br>Spring Boot
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest APIs"/>
       <br>Rest APIs
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
     </td>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-angular-logo.gif" width="48" height="48" alt="Angular" />
       <br>Angular
     </td>
-    <td align="center" width="96"> 
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-       <br>MySQL
-    </td> 
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-      <br>Docker
-    </td> 
-    <td align="center" width="96">    
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="48" height="48" alt="Kubernetes" />
-        <br>Kubernetes
-    </td>    
-  </tr>
-  <tr> 
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
-      <br>Azure
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="Javascript"/>
       <br>Javascript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-        <br>Python
-    </td>                                                                        
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="Tensorflow" />
-      <br>Tensorflow
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="Cpp" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-        <br>Git
+        <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-keycloak-logo.png" width="48" height="48" alt="KeyClock" />
+      <br>Keycloak
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" />
-      <br>Terraform
-    </td>
-    <td align="center" width="96">
+  <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
       <br>Jenkins
     </td>
@@ -112,21 +78,56 @@ I enjoy solving complex architectural puzzles and performance bottlenecks:
       <br>Actions
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      <br>Redis
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker"/>
+      <br>Docker
+    </td> 
+    <td align="center" width="96">    
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="48" height="48" alt="Kubernetes"/>
+        <br>Kubernetes
+    </td>    
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
+      <br>Azure
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="AWS"/>
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+        <br>Git
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-jasper-logo.png" width="48" height="48" alt="Jasper Soft" />
+      <br>Jasper
     </td>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-liquibase-logo.svg" width="48" height="48" alt="Liquibase" />
        <br>Liquibase
     </td>
+    <td align="center" width="96"> 
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+       <br>MySQL
+    </td> 
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
+        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <br>Redis
+    </td>
+        <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65"  alt="Python"/>
+        <br>Python
+    </td>                                                                        
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="Tensorflow" />
+      <br>Tensorflow
     </td>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-keycloak-logo.png" width="48" height="48" alt="KeyClock" />
-      <br>Keycloak
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="Cpp"/>
+      <br>C++
     </td>
+
   </tr>
 </table>
 
