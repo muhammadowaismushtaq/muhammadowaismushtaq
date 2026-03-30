@@ -14,20 +14,24 @@
 
 I am an engineer who enjoys solving complex performance bottlenecks and architectural puzzles. I bridge the gap between high-fidelity UI design and hyper-efficient backend execution.
 
-## The "Performance Overhaul" Highlights
-* **Zero-Latency Data Fetching:** Optimized a legacy SQL bottleneck for an Angular UI on Azure AKS, reducing execution time from **10+ minutes to < 1 second** for 2,000+ complex proposals.
-* **Architectural Modernization:** Spearheading an end-to-end migration from **Jersey to Spring Boot**, redesigning for high scalability using Docker, Liquibase, and GitHub Actions.
-* **Cloud Transformation:** Migrated legacy C++ (MFC) utilities to **Azure Cloud**, optimizing Blob-to-SQL integrations using BCP for massive data throughput.
-* **CMMI Level 3 Leadership:** Architected Technical Solution (TS) and Product Integration (PI) processes, leading a team of 6 through successful Level 3 appraisals.
+### Key Engineering Impact
 
+* Migrated **Jersey → Spring Boot** with **Keycloak**, **Liquibase**, and **audit logging**
+* Optimized SQL (2,000+ proposals): **10 min → ~1 sec**
+* Built high-performance UI with **jqxWidgets + Bootstrap** and multithreading
+* Unified microfrontends via **Module Federation** on **Azure AKS**
+* Automated CI/CD (**GitHub Actions, Jenkins, Bitbucket**) across AWS & Azure
+* Modernized legacy **C++ (MFC)** → cloud + integrated **Jasper Reports** with backend services
+* Standardized testing/docs (**JUnit, Mockito, Swagger**)
+* Led team processes; achieved **CMMI Level 3**
 
-## What I’m Solving Now
-I am currently focused on **System Architecture Modernization** and **Distributed Performance**. I’m open to collaborating on complex problems involving:
+### Current Technical Focus
+I enjoy solving complex architectural puzzles and performance bottlenecks:
 
-* **High-Performance Backend Design:** Architecting maintainable, scalable Spring Boot systems that don't just work, but are built to last.
-* **Database & Query Optimization:** Refactoring multi-join nightmares into high-speed data streams (like my 10m to 1s optimization).
-* **Advanced Jasper Reporting:** Solving complex data visualization challenges and "robotic" reporting issues using Jasper Studio and SQL.
-* **DevOps & Full-Stack Scaling:** Building robust CI/CD pipelines and ensuring the Angular UI matches the backend's speed.
+* **Scalable Backend Design:** Building maintainable Spring Boot systems that are built to scale.
+* **Advanced Reporting:** Solving "robotic" reporting issues and complex visualizations in **Jasper Studio**.
+* **High-Speed Querying:** Turning "multi-join nightmares" into optimized, high-speed data streams.
+* **DevOps Excellence:** Crafting CI/CD pipelines that actually accelerate delivery.
 
 
 ## Tech Stack
