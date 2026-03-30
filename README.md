@@ -9,20 +9,30 @@
     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/muhammadowaismushtaq?">
 </p>
 
----
+# Senior Software Engineer
+**Full Stack Architecture • Cloud-Native Scaling • High-Performance Systems**
 
-# 🚀 Senior Software Engineer
-**Full Stack Development | Cloud-Native Systems | Java & Angular**
+I am an engineer who enjoys solving complex performance bottlenecks and architectural puzzles. I bridge the gap between high-fidelity UI design and hyper-efficient backend execution.
 
-- 👨‍💻 **End-to-End Delivery:** Expert in building seamless user experiences with Angular and robust backends with Spring Boot.
-- 🏗️ **Infrastructure & Scaling:** Proficient in containerization and deploying across multi-cloud environments (AWS, Azure).
-- 🌍 **Location:** Open to Full Stack & Backend roles.
+## The "Performance Overhaul" Highlights
+* **Zero-Latency Data Fetching:** Optimized a legacy SQL bottleneck for an Angular UI on Azure AKS, reducing execution time from **10+ minutes to < 1 second** for 2,000+ complex proposals.
+* **Architectural Modernization:** Spearheading an end-to-end migration from **Jersey to Spring Boot**, redesigning for high scalability using Docker, Liquibase, and GitHub Actions.
+* **Cloud Transformation:** Migrated legacy C++ (MFC) utilities to **Azure Cloud**, optimizing Blob-to-SQL integrations using BCP for massive data throughput.
+* **CMMI Level 3 Leadership:** Architected Technical Solution (TS) and Product Integration (PI) processes, leading a team of 6 through successful Level 3 appraisals.
 
----
 
-# 💻Tech Stack
+## What I’m Solving Now
+I am currently focused on **System Architecture Modernization** and **Distributed Performance**. I’m open to collaborating on complex problems involving:
 
+* **High-Performance Backend Design:** Architecting maintainable, scalable Spring Boot systems that don't just work, but are built to last.
+* **Database & Query Optimization:** Refactoring multi-join nightmares into high-speed data streams (like my 10m to 1s optimization).
+* **Advanced Jasper Reporting:** Solving complex data visualization challenges and "robotic" reporting issues using Jasper Studio and SQL.
+* **DevOps & Full-Stack Scaling:** Building robust CI/CD pipelines and ensuring the Angular UI matches the backend's speed.
+
+
+## Tech Stack
 > Tools and technologies I specialize in for enterprise-grade solutions
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -84,7 +94,41 @@
         <br>Git
     </td>
   </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" />
+      <br>Terraform
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
+      <br>Jenkins
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
+      <br>Actions
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-liquibase-logo.svg" width="48" height="48" alt="Liquibase" />
+       <br>Liquibase
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-keycloak-logo.png" width="48" height="48" alt="KeyClock" />
+      <br>Keycloak
+    </td>
+  </tr>
 </table>
+
+---
+
+<div align="center"> <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-thanks.svg" alt="thanks"/> </div>
 
 
 
