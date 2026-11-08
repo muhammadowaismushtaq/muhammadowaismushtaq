@@ -1,139 +1,42 @@
-<a name="top"></a>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/Owais_Mushtaq_SDE_Banner_2026.png" width="100%" alt="Owais Mushtaq Banner" />
+  <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/Owais_Mushtaq_SDE_Banner_2026.png" width="100%" alt="Owais Mushtaq" />
 </div>
 
-<p align="right">
-    <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-hacker.gif" width="30" title="Cloning this might summon the hacker cat spirit 🐱‍💻" alt="Hacker GIF" />
-    <img src="https://komarev.com/ghpvc/?username=muhammadowaismushtaq&label=Profile%20views&color=0e75b6&style=flat">
-    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/muhammadowaismushtaq?">
-</p>
+## Hi, I'm Owais
 
-# Senior Software Engineer
-**Full Stack Architecture • Cloud-Native Scaling • High-Performance Systems**
+Senior Software Engineer and tech lead with 4+ years building **wealth-management FinTech** for US advisory firms at **Matrix Systems (Pvt.) Ltd**, the Karachi team behind **[SoftPak](https://www.softpak.com/)**'s products. I lead a team of five and stay hands-on across backend, frontend, data, cloud and delivery: I write code, review and merge pull requests, and own releases.
 
-I am an engineer who enjoys solving complex performance bottlenecks and architectural puzzles. I bridge the gap between high-fidelity UI design and hyper-efficient backend execution.
+I modernize legacy systems, build new products from scratch, and keep improving what's already running. My rule for the AI era: **pace through AI, quality through experience**.
 
-### Key Engineering Impact
+> My day-to-day commits, reviews and merges live in private company repositories under **[@owais-matrix](https://github.com/owais-matrix)**.
 
-* Migrated **Jersey → Spring Boot** with **Keycloak**, **Liquibase**, and **audit logging**
-* Optimized SQL (2,000+ proposals): **10 min → ~1 sec**
-* Built high-performance UI with **jqxWidgets + Bootstrap** and multithreading
-* Unified microfrontends via **Module Federation** on **Azure AKS**
-* Automated CI/CD (**GitHub Actions, Jenkins, Bitbucket**) across AWS & Azure
-* Modernized legacy **C++ (MFC)** → cloud + integrated **Jasper Reports** with backend services
-* Standardized testing/docs (**JUnit, Mockito, Swagger**)
-* Led team processes; achieved **CMMI Level 3**
+### What I bring
 
-### Current Technical Focus
-I enjoy solving complex architectural puzzles and performance bottlenecks:
+- **Modernization without big-bang risk.** Rebuilt a legacy Jersey backend as Spring Boot APIs that serve two products, with a backend-for-frontend layer so the existing UI runs on the new APIs and QA signs off before cutover. Also moved C++ (MFC) utilities to Azure and upgraded Angular 12 to 15.
+- **Backends built to scale.** RabbitMQ in place of hand-managed threads, Java's FFM API in place of fragile JNI, multi-tenancy, Keycloak SSO and MFA, audit trails, and complete Swagger documentation.
+- **Complete frontends.** Full Angular applications from Figma to production, including micro-frontends with Module Federation, a shared component library, and data-heavy grids and charts.
+- **Fast, reliable data.** Cut a rebalancing job from **10 minutes to under 1 second** across 2,000+ proposals; moved scripts and triggers to Liquibase; added BCP bulk loading of client files into cloud databases; built JasperReports for portfolio managers.
+- **Delivery on any platform.** End-to-end pipelines with Jenkins, GitHub Actions or Bitbucket Pipelines: build, Docker, deployment to dev, QA, UAT and production on AWS and Azure Kubernetes Service, with SonarCloud and JaCoCo quality gates and release notifications.
+- **AI-first engineering, without lowering the bar.** Evaluated Junie, Codex, Claude, GitHub Copilot and Cursor with my team before standardizing on Claude. Wrote repository guidelines for coding, reviews, testing and AI agents, so developers ship from a Jira ticket with minimal rework. Every PR passes automated review, then mine for business logic, performance and consistency.
+- **Leadership and process.** Mentoring, estimation and work breakdown, Agile delivery with US clients, and process work behind the company's CMMI Level 3 appraisal and ISO 9001 audits, backed by my MS in Software Project Management.
 
-* **Scalable Backend Design:** Building maintainable Spring Boot systems that are built to scale.
-* **Advanced Reporting:** Solving "robotic" reporting issues and complex visualizations in **Jasper Studio**.
-* **High-Speed Querying:** Turning "multi-join nightmares" into optimized, high-speed data streams.
-* **DevOps Excellence:** Crafting CI/CD pipelines that actually accelerate delivery.
+### Products I've worked on
 
+| Product | What it is | My part |
+|---|---|---|
+| [uRebal](https://www.softpak.com/solutions/universal-rebalancer/) | Portfolio rebalancing and trading | Tech lead and architect of the backend modernization |
+| [uRebal Hub](https://www.softpak.com/solutions/urebal-hub/) | SaaS wealth-management platform for RIAs | API integration and release notes for the platform team |
+| [Advisor Sketchbook](https://partipris-invest.com/advisor-wealthdesign/) | Multi-tenant SaaS for financial advisors | Co-architect from requirements to MVP |
+| [MARS](https://www.softpak.com/solutions/managed-accounts-rebalancing-system/) | Managed account rebalancing | Performance tuning and cloud migration |
 
-## Tech Stack
-> Tools and technologies I specialize in for enterprise-grade solutions
+### Research
 
-<table>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" alt="Java"/>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="springboot"/>
-      <br>Spring Boot
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest APIs"/>
-      <br>Rest APIs
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-angular-logo.gif" width="48" height="48" alt="Angular" />
-      <br>Angular
-    </td>
-        <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="Javascript"/>
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-keycloak-logo.png" width="48" height="48" alt="KeyClock" />
-      <br>Keycloak
-    </td>
-  </tr>
-  <tr>
-  <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
-      <br>Jenkins
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
-      <br>Actions
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker"/>
-      <br>Docker
-    </td> 
-    <td align="center" width="96">    
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="48" height="48" alt="Kubernetes"/>
-        <br>Kubernetes
-    </td>    
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
-      <br>Azure
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="AWS"/>
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-        <br>Git
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-jasper-logo.png" width="48" height="48" alt="Jasper Soft" />
-      <br>Jasper
-    </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-liquibase-logo.svg" width="48" height="48" alt="Liquibase" />
-       <br>Liquibase
-    </td>
-    <td align="center" width="96"> 
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-       <br>MySQL
-    </td> 
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      <br>Redis
-    </td>
-        <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65"  alt="Python"/>
-        <br>Python
-    </td>                                                                        
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="Tensorflow" />
-      <br>Tensorflow
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="Cpp"/>
-      <br>C++
-    </td>
+- **[AI-Augmented Agile MVP Development for Lean Tech Startups](https://doi.org/10.21203/rs.3.rs-10346557/v1)** (2026, sole author). Under review at *Innovations in Systems and Software Engineering* (Springer).
+- **Rural working women's lived experiences of sustainable development in Pakistan's date palm industry** (2026, co-author). A funded field study, under review.
+- **[Vision-Based Human Activity Recognition](https://github.com/muhammadowaismushtaq/researches/tree/main/vision-based-human-activity-recognition)** (2022). Deep learning on video, my final year project at FAST-NUCES.
 
-  </tr>
-</table>
+<!-- ORCID: [0009-0001-7726-7200](https://orcid.org/0009-0001-7726-7200) -->
 
 ---
 
-<div align="center"> <img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-thanks.svg" alt="thanks"/> </div>
-
-
-
+<p align="center"><b>Modernizing a legacy system, adopting AI safely, or tightening delivery?</b><br>I'm always happy to talk. Reach me through the links on my profile.</p>
